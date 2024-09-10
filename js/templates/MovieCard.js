@@ -18,7 +18,7 @@ class MovieCard {
             <p class="fs-14 center">
                 <span>${this._movie.released_in}</span>
                 -
-                <span>${this._movie.duration}</span>
+                <span>${this._movie.duration} min.</span>
             </p>
         `
         
